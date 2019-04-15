@@ -12,4 +12,4 @@ This is a Notepad++ highlighting file for the syntax used by GNU Assembler (GAS)
 ## Other notes
 
 * Please note that the default assembly file extension for GAS/GCC is ``.s``, not ``.asm``.
-* Feel free to contribute any changes, as the keyword list is far to be complete.
+* Feel free to contribute any changes, as the keyword list is far from complete.
